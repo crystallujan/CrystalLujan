@@ -19,7 +19,7 @@
 /* Colors */
 :root {
   --color-default: #fafafa;
-  --color-primary: #27a776;
+  --color-primary: red;
   --color-secondary: #161718;
 }
 
@@ -1230,7 +1230,7 @@ h6 {
   margin: 0 0 10px 0;
   font-size: 38px;
   font-weight: 700;
-  color: #fff;
+  color: black;
   font-family: var(--font-secondary);
 }
 
@@ -1253,7 +1253,7 @@ h6 {
 }
 
 .hero p {
-  color: rgba(255, 255, 255, 0.6);
+  color: black;
   margin-bottom: 30px;
   font-size: 18px;
 }
@@ -1268,7 +1268,7 @@ h6 {
   letter-spacing: 1px;
   text-transform: uppercase;
   transition: 0.3s;
-  color: #fff;
+  color: black;
   background: var(--color-primary);
 }
 
