@@ -34,7 +34,7 @@
 body {
   font-family: var(--font-default);
   color: var(--color-default);
-  background-color: #000;
+  background: linear-gradient(90deg, rgba(249,217,118) 0%, rgba(243,159,134) 100% );
 }
 
 a {
@@ -1220,7 +1220,7 @@ h6 {
 .hero {
   width: 100%;
   min-height: 30vh;
-  background: #000;
+  background: linear-gradient(90deg, rgba(249,217,118) 0%, rgba(243,159,134) 100% );
   background-size: cover;
   position: relative;
   padding: 140px 0 60px 0;
