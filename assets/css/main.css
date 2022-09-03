@@ -129,7 +129,7 @@ h6 {
   letter-spacing: 1px;
   text-transform: uppercase;
   transition: 0.3s;
-  color: #fff;
+  color: black;
   background: var(--color-primary);
 }
 
